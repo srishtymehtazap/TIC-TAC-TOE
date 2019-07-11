@@ -1,0 +1,19 @@
+
+h1{
+text-align:center;}
+.row1 div,.row2 div,.row3 div{
+height:100px;
+width:100px;
+border:4px solid grey;
+margin:6px;
+display:inline-block;
+}
+
+.row1 div button,.row2 div button,.row3 div button{
+height:100px;
+width:100px;
+background-image:
+}
+.display{
+text-align:center;
+}
